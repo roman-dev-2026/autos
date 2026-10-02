@@ -17,7 +17,7 @@ Microservicio básico desarrollado con **Spring Boot**, siguiendo la arquitectur
 
 ## 1. Configuración
 
-Para la onfigurar del proyecto utilice la pagina de initializar de spring boot [start.spring.io](https://start.spring.io):
+Para la configurar del proyecto utilice la pagina de initializar de spring boot [start.spring.io](https://start.spring.io):
 
 ![Configuración en Spring Initializr](/configuracion.png)
 
