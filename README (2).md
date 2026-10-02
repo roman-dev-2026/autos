@@ -148,7 +148,7 @@ public interface IAutoRepository extends JpaRepository<Auto,Long> {
 
 ## 6. Interfaz de Service
 
-Ubicación: `com.distribuido.producto.service`
+Ubicación: `com.distribuido.auto.service`
 
 ```java
 package com.distribuidos.auto.service;
@@ -171,7 +171,7 @@ public interface IAutoService {
 ---
 ## 7. Implementación de Service
 
-Ubicación: `com.distribuido.producto.service`
+Ubicación: `com.distribuido.auto.service`
 
 ```java
 package com.distribuidos.auto.service;
